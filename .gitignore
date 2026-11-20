@@ -1,0 +1,19 @@
+# Build output
+build/
+*.apk
+*.dex
+*.class
+
+# Signing key (keep a backup elsewhere; updates must be signed with it)
+*.keystore
+*.jks
+
+# Third-party reference APK (large, not ours)
+reference/
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
