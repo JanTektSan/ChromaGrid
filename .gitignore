@@ -1,6 +1,7 @@
 # Build output
 build/
 *.apk
+!/ChromaGrid.apk
 *.dex
 *.class
 
